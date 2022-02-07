@@ -1,0 +1,5 @@
+C:\Users\sistemas\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\TP2\TP2\Abstraccion\bin\Debug\Abstraccion.dll
+C:\Users\sistemas\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\TP2\TP2\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\sistemas\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\TP2\TP2\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\TP2\TP2\Abstraccion\obj\Debug\Abstraccion.dll
+C:\Users\sistemas\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Fran\SEGUNDO AÑO\2DO CUATRI\LUG\TP2\TP2\Abstraccion\obj\Debug\Abstraccion.pdb
