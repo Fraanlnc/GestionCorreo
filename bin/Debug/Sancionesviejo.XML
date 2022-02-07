@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sanciones>
+  <Sancion Codigo="1">
+    <Descripcion>1</Descripcion>
+    <Dias_de_Suspension>1</Dias_de_Suspension>
+    <Fecha_Suspension>11/7/2021</Fecha_Suspension>
+    <Distribuidor>2</Distribuidor>
+  </Sancion>
+  <Sancion Codigo="2">
+    <Descripcion>damn</Descripcion>
+    <Dias_de_Suspension>1</Dias_de_Suspension>
+    <Fecha_Suspension>10/7/2021</Fecha_Suspension>
+    <Distribuidor>5</Distribuidor>
+  </Sancion>
+  <Sancion Codigo="3">
+    <Descripcion>cris</Descripcion>
+    <Dias_de_Suspension>2</Dias_de_Suspension>
+    <Fecha_Suspension>11/8/2021</Fecha_Suspension>
+    <Distribuidor>5</Distribuidor>
+  </Sancion>
+</Sanciones>

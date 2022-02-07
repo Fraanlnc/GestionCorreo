@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sanciones>
+  <Sancion Codigo="1">
+    <Descripcion>tiro 20 cartas</Descripcion>
+    <Dias_de_Suspension>5</Dias_de_Suspension>
+    <Fecha_Suspension>11/8/2021</Fecha_Suspension>
+    <Distribuidor>18</Distribuidor>
+  </Sancion>
+  <Sancion Codigo="2">
+    <Descripcion>no hizo nada pero te sanciono igual</Descripcion>
+    <Dias_de_Suspension>10</Dias_de_Suspension>
+    <Fecha_Suspension>11/8/2021</Fecha_Suspension>
+    <Distribuidor>20</Distribuidor>
+  </Sancion>
+  <Sancion Codigo="3">
+    <Descripcion>te suspendo otra vez</Descripcion>
+    <Dias_de_Suspension>7</Dias_de_Suspension>
+    <Fecha_Suspension>11/8/2021</Fecha_Suspension>
+    <Distribuidor>18</Distribuidor>
+  </Sancion>
+  <Sancion Codigo="10">
+    <Descripcion>Sancion</Descripcion>
+    <Dias_de_Suspension>15</Dias_de_Suspension>
+    <Fecha_Suspension>11/17/2021</Fecha_Suspension>
+    <Distribuidor>20</Distribuidor>
+  </Sancion>
+</Sanciones>
